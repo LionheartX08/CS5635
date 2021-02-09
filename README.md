@@ -1,2 +1,6 @@
 # CS5635
-CS 5635 - Data Visualizations
+## CS 5635 - Data Visualizations
+
+Compilation of Data Visualizations for this course.
+
+1 - Simple Visualizations (NOAA Temp Data, Tarantino Film Data, Drug Use Data, Congressional Age Data)
