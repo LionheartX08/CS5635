@@ -1,0 +1,8 @@
+
+*.vtk
+*.bz2
+*.md5
+*.mhd
+*.1dt
+*.pvsm
+*.sh
