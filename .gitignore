@@ -6,3 +6,6 @@
 *.1dt
 *.pvsm
 *.sh
+*.vtu
+*.vts
+*.zip
